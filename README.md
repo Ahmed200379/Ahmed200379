@@ -55,12 +55,12 @@
 
 ## 📊 GitHub Insights  
 <p align="center">
-  <img height="165" src="https://github.com/Ahmed200379/&show_icons=true&theme=react" />
-  <img height="165" src="https://github.com/Ahmed200379/&theme=react" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed200379&show_icons=true&theme=react" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed200379&theme=react" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github.com/Ahmed200379/&layout=compact&theme=react" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed200379&layout=compact&theme=react" />
 </p>
 
 ---
